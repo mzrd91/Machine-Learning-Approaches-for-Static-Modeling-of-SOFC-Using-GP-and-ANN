@@ -178,15 +178,20 @@ We evaluate the models using both MAE and MSE on training and test data. The bes
 ### Genetic Programming (GP):
 
 **Adaptability**: GP is highly adaptable for complex problem-solving where the form of the solution is not known beforehand.
+
 **Symbolic Regression**: It can be particularly effective for symbolic regression tasks, where the goal is to find an algebraic expression that best fits the data.
+
 **Interpretability**: The evolved equations are interpretable, which can be beneficial for understanding the underlying relationships in the data.
 
 
 ### Artificial Neural Networks (ANN):
 
 **Flexibility**: ANNs are flexible and can model complex, non-linear relationships between inputs and outputs.
+
 **Generalization**: They can generalize well to unseen data, as indicated by the close performance on training and testing data.
+
 **Regularization**: Techniques like L2 regularization are used to prevent overfitting, ensuring the model performs well on both training and test data.
+
 **Hyperparameter Tuning**: The architecture of the ANN (number of layers, number of neurons per layer, activation functions) and the training process (learning rate, batch size) can significantly impact performance.
 
 
