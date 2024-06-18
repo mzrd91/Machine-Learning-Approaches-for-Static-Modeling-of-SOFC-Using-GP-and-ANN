@@ -105,28 +105,32 @@ This project aims to solve the static modeling problem addressed in the [Energy 
 ### Evaluation Metrics for ANN
 
 #### MAE on Training Data
-
+| Parameter         | Value              |
+|-------------------|--------------------|
 | Best     | 1.0354608297348022 |
 | Worst    | 1.0354608297348022 |
 | Mean     | 1.0354608297348022 |
 | Variance | 0.0                |
 
 #### MAE on Test Data
-
+| Parameter         | Value              |
+|-------------------|--------------------|
 | Best     | 0.7849988341331482 |
 | Worst    | 0.7849988341331482 |
 | Mean     | 0.7849988341331482 |
 | Variance | 0.0                |
 
 #### MSE on Training Data
-
+| Parameter         | Value              |
+|-------------------|--------------------|
 | Best     | 1.1907569180299624 |
 | Worst    | 1.421831488609314  |
 | Mean     | 1.3062942033196383 |
 | Variance | 0.01334886429210793 |
 
 #### MSE on Test Data
-
+| Parameter         | Value              |
+|-------------------|--------------------|
 | Best     | 0.675733387318889  |
 | Worst    | 0.9068063497543335 |
 | Mean     | 0.7912698685366113 |
