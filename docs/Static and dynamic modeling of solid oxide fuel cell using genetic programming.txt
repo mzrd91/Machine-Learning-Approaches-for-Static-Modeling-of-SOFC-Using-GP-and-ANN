@@ -1,3 +1,13 @@
-Please refer to the link below:
+# Please refer to the link below:
 
-https://www.sciencedirect.com/science/article/abs/pii/S0360544209000449 
+## [Static and dynamic modeling of solid oxide fuel cell using genetic programming](https://www.sciencedirect.com/science/article/abs/pii/S0360544209000449)
+
+Reference: Uday Kumar Chakraborty
+
+Abstract: 
+
+Modeling of solid oxide fuel cell (SOFC) systems is a powerful approach that can provide useful insights into the nonlinear dynamics of the system without the need for formulating complicated systems of equations describing the electrochemical and thermal properties. Several algorithmic approaches have in the past been reported for the modeling of solid oxide fuel cell stacks. However, all of these models have their limitations. This paper presents an efficient genetic programming approach to SOFC modeling and simulation. This method, belonging to the computational intelligence paradigm, is shown to outperform the state-of-the-art radial basis function neural network approach for SOFC modeling. Both static (fixed load) and dynamic (load transient) analyses are provided. Statistical tests of significance are used to validate the improvement in solution quality.
+
+
+
+ 
