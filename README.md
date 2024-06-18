@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project aims to solve the static modeling problem addressed in the (Energy 2009 paper)[https://www.sciencedirect.com/science/article/abs/pii/S0360544209000449]. The primary goal is to use Genetic Programming (GP), Machine Learning, and Artificial Neural Networks (ANN) to create a model for Solid Oxide Fuel Cells (SOFC) that is more efficient and accurate than the model presented in the 2009 paper. We use the same SOFC model and create training and test data as in that paper but with the freedom to use any version of GP and any type of ANN (not necessarily RBF). The aim is to achieve statistically significantly better results compared to those reported in the original paper.
+This project aims to solve the static modeling problem addressed in the [Energy 2009 paper](https://www.sciencedirect.com/science/article/abs/pii/S0360544209000449). The primary goal is to use Genetic Programming (GP), Machine Learning, and Artificial Neural Networks (ANN) to create a model for Solid Oxide Fuel Cells (SOFC) that is more efficient and accurate than the model presented in the 2009 paper. We use the same SOFC model and create training and test data as in that paper but with the freedom to use any version of GP and any type of ANN (not necessarily RBF). The aim is to achieve statistically significantly better results compared to those reported in the original paper.
 
 ## Algorithm Parameters
 
