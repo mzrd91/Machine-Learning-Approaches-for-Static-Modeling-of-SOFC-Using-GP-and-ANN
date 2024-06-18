@@ -17,10 +17,10 @@ This project aims to solve the static modeling problem addressed in the [Energy 
 | u                 | 0.8                |
 | Kr                | 0.993e-3 # mol/(s A) |
 | Kr_cell           | Kr / N0            |
-| KH2               | 0.843 # mol/(s atm) |
-| KH2O              | 0.281 # mol/(s atm) |
-| KO2               | 2.52 # mol/(s atm)  |
-| r                 | 2.52 # mol/(s atm)  |
+| KH2               | 0.843 # $mol/(s atm)$ |
+| KH2O              | 0.281 # $mol/(s atm)$ |
+| KO2               | 2.52 # $mol/(s atm)$  |
+| r                 | 2.52 # $mol/(s atm)$  |
 | rcell             | r / N0             |
 | rHO               | 1.145              |
 | i0_den            | 20 # mA/cm2        |
@@ -29,7 +29,7 @@ This project aims to solve the static modeling problem addressed in the [Energy 
 | n                 | 2                  |
 | F                 | 96485              |
 | alpha             | 0.5                |
-| R                 | 0.0821 # atm/(mol K) |
+| R                 | 0.0821 # $atm/(mol K)$ |
 | N                 | 20                 |
 | PH2               | 1.265              |
 | PO2               | 2.527              |
@@ -84,7 +84,7 @@ This project aims to solve the static modeling problem addressed in the [Energy 
 ### Best Solution Evolved by GP with Respect to Test Data
 
 - **Best Value:** 1.1869640683635057
-- **Best Equation:** add(0.3332234961604388, cos(add(-0.4523309681912573, 1.0)))
+- **Best Equation:** $add(0.3332234961604388, cos(add(-0.4523309681912573, 1.0)))$
 
 ### ANN Architecture-Defining Parameters
 
