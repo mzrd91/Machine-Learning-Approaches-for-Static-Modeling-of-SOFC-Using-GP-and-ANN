@@ -23,9 +23,9 @@ This project aims to solve the static modeling problem addressed in the [Energy 
 | r                 | 2.52 # $mol/(s atm)$  |
 | rcell             | r / N0             |
 | rHO               | 1.145              |
-| i0_den            | 20 # mA/cm2        |
-| ilimit_den        | 900 # mA/cm2       |
-| A                 | 1000 # cm2         |
+| i0_den            | 20 # $mA/cm2$        |
+| ilimit_den        | 900 # $mA/cm2$       |
+| A                 | 1000 # $cm2$         |
 | n                 | 2                  |
 | F                 | 96485              |
 | alpha             | 0.5                |
@@ -91,7 +91,7 @@ This project aims to solve the static modeling problem addressed in the [Energy 
 | Parameter             | Value          |
 |-----------------------|----------------|
 | Model                 | Sequential     |
-| Input Shape           | (2,)           |
+| Input Shape           | (2, )           |
 | Regularization        | l2             |
 | Hidden Layers         | 2              |
 | Output Layer          | 1              |
@@ -110,7 +110,6 @@ This project aims to solve the static modeling problem addressed in the [Energy 
 | Best     | 1.0354608297348022 |
 | Worst    | 1.0354608297348022 |
 | Mean     | 1.0354608297348022 |
-| Variance | 0.0                |
 
 #### MAE on Test Data
 | Parameter         | Value              |
@@ -118,7 +117,6 @@ This project aims to solve the static modeling problem addressed in the [Energy 
 | Best     | 0.7849988341331482 |
 | Worst    | 0.7849988341331482 |
 | Mean     | 0.7849988341331482 |
-| Variance | 0.0                |
 
 #### MSE on Training Data
 | Parameter         | Value              |
